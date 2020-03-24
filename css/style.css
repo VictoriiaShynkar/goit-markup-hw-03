@@ -1,3 +1,4 @@
+
 :root {
     --primary-font-stack: "Playfair Display";
 
@@ -70,5 +71,9 @@ body {
     font-weight: 400;
     line-height: 24px;
     font-family: var(--primary-font-stack);
-    color: #626262
+    color: #626262;
+}
+    
    
+    
+    
