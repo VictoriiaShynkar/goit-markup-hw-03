@@ -1,0 +1,74 @@
+:root {
+    --primary-font-stack: "Playfair Display";
+
+}
+
+body {
+    font-family: var(--primary-font-stack);
+
+}
+
+
+.site-link {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #626262;
+
+
+}
+
+.site-nav {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+
+.site-item {
+    color: #ffffff;
+}
+
+.site-link:hover {
+    color: #46c0f7;
+}
+
+.main-info {
+    color: #626262;
+}
+
+.main-title {
+
+    font-size: 30px;
+    font-weight: 400;
+    color: #626262;
+}
+
+.main-signature {
+    font-size: 14px;
+    font-weight: 300;
+    color: #b4ad9e;
+
+}
+
+.main-item {
+    color: #ffffff;
+}
+
+.main-text {
+    color: #626262;
+}
+
+.main-image {
+    width: 420px;
+}
+
+
+.button {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: var(--primary-font-stack);
+    color: #626262
+   
